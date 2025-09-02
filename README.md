@@ -7,3 +7,5 @@ This project demonstrates how to deploy a static website to **GitHub Pages** usi
 - It builds and deploys the website to GitHub Pages.
 - Website is accessible at: `https://github.com/santoshk51/deployment-workflow`
 # deployment-workflow
+
+project credit: https://roadmap.sh/projects/github-actions-deployment-workflow
